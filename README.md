@@ -1,6 +1,7 @@
-# tugas_satu
+# Tugas_Satu
 
 A new Flutter project.
+This project is meant to fulfill one of the task given by Edspert Flutter Bootcamp
 
 ## Getting Started
 
